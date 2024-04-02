@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Splat.</h1>
+<h1 align="center">Hey 👋, I'm Splat.</h1>
 
 &emsp;
-<h3 align="center">Hi 👋, I'm Splat. Welcome to my GitHub profile! I'm a Computer Science student in high school in the UK, and I code in my free time.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a Computer Science student in high school in the UK, and I code in my free time.</h3>
 &emsp;
 
 -------------------
