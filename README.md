@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Splat.</h1>
 
 &emsp;
-<h3 align="center">Welcome to my GitHub profile! I'm a Computer Science student in high school in the UK, and I code in my free time.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a student in high school in the UK, and I code in my free time.</h3>
 &emsp;
 
 -------------------
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on iOS apps in Swift & SwiftUI.
 
-- 📚 I'm a high school student studying Computer Science.
+- 📚 I'm a high school student, studying programming myself.
 
 - 🌱 I’m currently learning **Swift and SwiftUI**
 
@@ -33,7 +33,7 @@
 ![Swift](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=swift)
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=Python)
 ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnu-bash)
-### Frontend development:
+### Frontend:
 &emsp;
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-gray?style=for-the-badge&logo=swift)
 ![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3)
