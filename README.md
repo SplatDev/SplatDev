@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=GitHub)
 ![Xcode](https://img.shields.io/badge/Xcode-gray?style=for-the-badge&logo=xcode)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-gray?style=for-the-badge&logo=intellijidea)
-![VS Code](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Visual-Studio-Code)
+![VS Code](https://img.shields.io/badge/VSCode-gray?style=for-the-badge&logo=Visual-Studio-Code)
 
 ### Cloud Platforms:
 &emsp;
