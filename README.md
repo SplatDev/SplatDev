@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Splat.</h1>
 
 &emsp;
-<h3 align="center">Welcome to my GitHub profile! I'm a student in high school in the UK, and I code in my free time.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a software development apprentice in the UK, and I code in my free time.</h3>
 &emsp;
 
 -------------------
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on iOS apps in Swift & SwiftUI.
 
-- 📚 I'm a high school student, studying programming myself.
+- 📚 I'm software development apprentice, primarily using Java.
 
-- 🌱 I’m currently learning **Swift and SwiftUI**
+- 🌱 I’m currently learning **Swift, SwiftUI, and Java**
 
 &emsp;
 
@@ -31,6 +31,7 @@
 ### Programming languages:
 &emsp;
 ![Swift](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=swift)
+![Java](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=Python)
 ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnu-bash)
 ### Frontend:
@@ -42,8 +43,8 @@
 &emsp;
 ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=GitHub)
-![GitLab](https://img.shields.io/badge/GitLab-gray?style=for-the-badge&logo=GitLab)
 ![Xcode](https://img.shields.io/badge/Xcode-gray?style=for-the-badge&logo=xcode)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-gray?style=for-the-badge&logo=intellijidea)
 ![VS Code](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Visual-Studio-Code)
 
 ### Cloud Platforms:
