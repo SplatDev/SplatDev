@@ -11,7 +11,7 @@
 
 - 📚 I'm software development apprentice, primarily using Java.
 
-- 🌱 I’m currently learning **Swift, SwiftUI, and Java**
+- 🌱 I’m currently learning **Java and Spring**.
 
 &emsp;
 
