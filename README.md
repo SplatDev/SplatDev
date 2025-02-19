@@ -7,11 +7,11 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on iOS apps in Swift & SwiftUI.
+- 🔭 I’m currently working on **APIs in TypeScript on AWS Lambda**.
 
-- 📚 I'm software development apprentice, primarily using Java.
+- 📚 I'm software development apprentice, currently using **TypeScript**.
 
-- 🌱 I’m currently learning **Java and Spring**.
+- 🌱 I’m currently learning **ReactJS**.
 
 &emsp;
 
@@ -20,7 +20,7 @@
 
 &emsp;
 <a href="https://twitter.com/intent/follow?screen_name=Splat_Pearled">
-    ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Splat_Pearled?style=for-the-badge&logo=x)
+    ![Twitter Follow](https://img.shields.io/twitter/follow/Splat_Pearled?style=for-the-badge&logo=x)
 </a>
 <a href="https://github.com/SplatDev">
     ![GitHub followers](https://img.shields.io/github/followers/SplatDev?style=for-the-badge&logo=github&label=Follow)
@@ -31,12 +31,14 @@
 ### Programming languages:
 &emsp;
 ![Swift](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=swift)
+![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=Python)
 ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnu-bash)
 ### Frontend:
 &emsp;
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-gray?style=for-the-badge&logo=swift)
+![ReactJS](https://img.shields.io/badge/ReactJS-gray?style=for-the-badge&logo=react)
 ![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=HTML5)
 ### Misc tools:
