@@ -65,7 +65,7 @@
 
 [![SplatDev's GitHub stats](./profile/stats.svg)](https://github.com/SplatDev)
 
-### 📈 Most Used Languages (in public repos)
+### 📈 Most Used Languages
 
 [![SplatDev's Top Langs](./profile/top-langs.svg)](https://github.com/SplatDev)
 
