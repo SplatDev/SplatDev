@@ -7,11 +7,11 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on **APIs in TypeScript on AWS Lambda**.
+- 🔭 I’m currently working on **SPAs in AngularJS**.
 
 - 📚 I'm software development apprentice, currently using **TypeScript**.
 
-- 🌱 I’m currently learning **ReactJS**.
+- 🌱 I’m currently learning **Java and Spring Boot**.
 
 &emsp;
 
@@ -38,12 +38,14 @@
 ### Frontend:
 &emsp;
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-gray?style=for-the-badge&logo=swift)
-![ReactJS](https://img.shields.io/badge/ReactJS-gray?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/AngularJS-gray?style=for-the-badge&logo=angular)
 ![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=HTML5)
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git)
+![GitLab](https://img.shields.io/badge/GitLab-gray?style=for-the-badge&logo=GitLab)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=GitHub)
 ![Xcode](https://img.shields.io/badge/Xcode-gray?style=for-the-badge&logo=xcode)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-gray?style=for-the-badge&logo=intellijidea)
@@ -54,7 +56,6 @@
 ![AWS](https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=Amazon-AWS)
 ![Azure](https://img.shields.io/badge/Azure-gray?style=for-the-badge&logo=Microsoft-Azure)
 ![GCP](https://img.shields.io/badge/GCP-gray?style=for-the-badge&&logo=Google-Cloud)
-![OCI](https://img.shields.io/badge/OCI-gray?style=for-the-badge&&logo=Oracle)
 
 &emsp;
 
@@ -62,12 +63,12 @@
 
 ### 💻 Profile Stats
 
-[![SplatDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SplatDev&theme=github_dark_dimmed)](https://github.com/SplatDev)
+[![SplatDev's GitHub stats](./profile/stats.svg)](https://github.com/SplatDev)
 
 ### 📈 Most Used Languages (in public repos)
 
-[![SplatDev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SplatDev&theme=github_dark_dimmed)](https://github.com/SplatDev)
+[![SplatDev's Top Langs](./profile/top-langs.svg)](https://github.com/SplatDev)
 
 ### 🔥 Streak Stats
 
-[![SplatDev's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SplatDev&theme=github_dark_dimmed)](https://github.com/SplatDev)
+[![SplatDev's Streak stats](./profile/streak.svg)](https://github.com/SplatDev)
