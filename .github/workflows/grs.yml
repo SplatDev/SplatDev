@@ -28,7 +28,7 @@ jobs:
       - name: Generate streak card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: streak
+          card: streaks
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
