@@ -17,7 +17,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Generate top langs card
         uses: readme-tools/github-readme-stats-action@v1
@@ -25,14 +25,14 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
         run: |
