@@ -1,74 +1,62 @@
-<h1 align="center">Hey 👋, I'm Joseph.</h1>
+<div align="center">
 
-&emsp;
-<h3 align="center">Welcome to my GitHub profile! I'm a software development apprentice in the UK, and I code in my free time.</h3>
-&emsp;
+# Joseph | SplatDev
 
--------------------
-&emsp;
+Welcome to my GitHub profile! I'm a software development apprentice in the UK, building projects primarily with TypeScript and Java.
 
-- 🔭 I’m currently working on **SPAs in AngularJS**.
+[![Follow on X](https://img.shields.io/twitter/follow/Splat_Pearled?style=for-the-badge&logo=x&label=Follow%20on%20X&color=111111)](https://twitter.com/intent/follow?screen_name=Splat_Pearled)
+[![GitHub followers](https://img.shields.io/github/followers/SplatDev?style=for-the-badge&logo=github&label=GitHub&color=111111)](https://github.com/SplatDev)
 
-- 📚 I'm software development apprentice, currently using **TypeScript**.
+</div>
 
-- 🌱 I’m currently learning **Java and Spring Boot**.
+---
 
-&emsp;
+## What I'm Doing
 
-## Socials:
--------------------
+|  | Area | Focus |
+| --- | --- | --- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" alt="AngularJS" /> | **Frontend** | Building web apps with **AngularJS** and **TypeScript**. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" alt="Spring Boot" /> | **Backend** | Learning **Java** and **Spring Boot**. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" alt="App development" /> | **Side projects** | Building iOS apps, and working with cloud platforms. |
 
-&emsp;
-<a href="https://twitter.com/intent/follow?screen_name=Splat_Pearled">
-    ![Twitter Follow](https://img.shields.io/twitter/follow/Splat_Pearled?style=for-the-badge&logo=x)
-</a>
-<a href="https://github.com/SplatDev">
-    ![GitHub followers](https://img.shields.io/github/followers/SplatDev?style=for-the-badge&logo=github&label=Follow)
-</a>
-&emsp;
-## 🛠️ My Skills
--------------------
-### Programming languages:
-&emsp;
-![Swift](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=swift)
-![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=Python)
-![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnu-bash)
-### Frontend:
-&emsp;
-![SwiftUI](https://img.shields.io/badge/SwiftUI-gray?style=for-the-badge&logo=swift)
-![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/AngularJS-gray?style=for-the-badge&logo=angular)
-![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3)
-![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=HTML5)
-### Misc tools:
-&emsp;
-![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git)
-![GitLab](https://img.shields.io/badge/GitLab-gray?style=for-the-badge&logo=GitLab)
-![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=GitHub)
-![Xcode](https://img.shields.io/badge/Xcode-gray?style=for-the-badge&logo=xcode)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-gray?style=for-the-badge&logo=intellijidea)
-![VS Code](https://img.shields.io/badge/VSCode-gray?style=for-the-badge&logo=Visual-Studio-Code)
+## What I'm Using
 
-### Cloud Platforms:
-&emsp;
-![AWS](https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/Azure-gray?style=for-the-badge&logo=Microsoft-Azure)
-![GCP](https://img.shields.io/badge/GCP-gray?style=for-the-badge&&logo=Google-Cloud)
+### Languages
 
-&emsp;
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=zsh&logoColor=white)
 
-## 📈 GitHub Stats and Activity
+### Frontend and Frameworks
 
-### 💻 Profile Stats
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-[![SplatDev's GitHub stats](./profile/stats.svg)](https://github.com/SplatDev)
+### Tools and Platforms
 
-### 📈 Most Used Languages
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-[![SplatDev's Top Langs](./profile/top-langs.svg)](https://github.com/SplatDev)
+## GitHub Activity
 
-### 🔥 Streak Stats
+<div align="center">
 
-[![SplatDev's Streak stats](./profile/streak.svg)](https://github.com/SplatDev)
+[![Joseph's GitHub stats](./profile/stats.svg)](https://github.com/SplatDev)
+
+[![Joseph's most used languages](./profile/top-langs.svg)](https://github.com/SplatDev)
+
+[![Joseph's streak stats](./profile/streak.svg)](https://github.com/SplatDev)
+
+</div>
